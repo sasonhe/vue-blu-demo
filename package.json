@@ -1,5 +1,5 @@
 {
-  "name": "vue-blu",
+  "name": "vue-blu-demo",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/sasonhe/vue-Blu/issues"
   },
-  "homepage": "https://github.com/sasonhe/vue-Blu#readme"
+  "homepage": "https://github.com/sasonhe/vue-Blu#readme",
+  "dependencies": {
+    "vue": "^2.4.2",
+    "vue-blu": "^0.1.9"
+  }
 }
